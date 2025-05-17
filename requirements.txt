@@ -17,3 +17,8 @@ langchain_chroma
 duckdb
 pandas
 openai
+arxiv
+wikipedia
+duckduckgo-search
+mysql-connector-python
+SQLAlchemy
