@@ -22,3 +22,5 @@ wikipedia
 duckduckgo-search
 mysql-connector-python
 SQLAlchemy
+langchain_huggingface
+huggingface_hub
